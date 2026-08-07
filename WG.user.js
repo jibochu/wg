@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         WG
 // @namespace    http://tampermonkey.net/
-// @version      2.0.0
+// @version      2.0.1
 // @description  WG Loader
 // @author       You
-// @match        *://*/clientv3/*gameId=2005*
+// @match        *://*/clientv3/*token*
 // @run-at       document-start
 // @sandbox      JavaScript
 // @grant        unsafeWindow
