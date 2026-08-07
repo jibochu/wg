@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WG
 // @namespace    http://tampermonkey.net/
-// @version      2.0.2
+// @version      2.0.3
 // @description  WG
 // @author       You
 // @match        *://*/clientv3/*&token=*
