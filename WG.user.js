@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WG
 // @namespace    http://tampermonkey.net/
-// @version      2.0.3
+// @version      2.0.5
 // @description  WG
 // @author       You
 // @match        *://*/clientv3/*&token=*
@@ -15,7 +15,7 @@
 // @grant        GM_getResourceURL
 // @grant        GM_setValue
 // @grant        GM_getValue
-// @updateURL    https://ghproxy.net/https://github.com/jibochu/wg/blob/main/my-script.meta.js
+// @updateURL    https://ghproxy.net/https://github.com/jibochu/wg/blob/main/WG.user.js
 // @downloadURL  https://ghproxy.net/https://github.com/jibochu/wg/blob/main/WG.user.js
 // @connect      120.53.244.248
 // @resource     cardSprite https://bee-reg-ab.imagency.cn/e/049516bc16e365160e9ba1cb43e4ee58.png
